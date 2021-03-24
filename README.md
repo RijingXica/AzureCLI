@@ -1,1 +1,1 @@
-# AzureCLI
+# AzureCLI for AZ-104 exercise
